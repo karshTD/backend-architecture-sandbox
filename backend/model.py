@@ -82,7 +82,7 @@ def predict_stress(monthly_income: float, emi: float,
 
     # Stress score: weighted average of class indices → scale to 0-100
     # 0*P0 + 50*P1 + 100*P2  gives a smooth score
-    stress_score = round(float(0 * proba[0] + 50 * proba[1] + 100 * proba[2]))
+    stress_score = round(float(0 * proba[0] + 50 * proba[1] + 100 * proba[2])) .
 
     return {
         "stress_score": stress_score,
