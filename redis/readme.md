@@ -28,7 +28,7 @@ Redis (Remote Dictionary Server) is an open-source, in-memory data structure sto
 
 ## Installation
 
-### Install Redis
+### Install Rediss
 
 #### On Ubuntu/Debian:
 ```bash
