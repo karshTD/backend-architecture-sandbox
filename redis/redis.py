@@ -1,4 +1,5 @@
-# implementing res
+# implementing redis
+
 import redis
 import time
 
