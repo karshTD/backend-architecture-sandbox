@@ -1,4 +1,4 @@
-# app.py
+# implementing res
 import redis
 import time
 
