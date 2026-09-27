@@ -39,10 +39,14 @@
             "id": "326414b81f2fc0e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CONCEPTS/TYPES OF MACHINE LEARNING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TYPES OF MACHINE LEARNING"
             }
           },
           {
@@ -228,11 +232,12 @@
   },
   "active": "326414b81f2fc0e1",
   "lastOpenFiles": [
+    "CONCEPT.md",
+    "linear-regression.md",
+    "PAPER.md",
+    "CONCEPTS/TYPES OF MACHINE LEARNING.md",
     "CONCEPTS/GRADIENT DESCENT.md",
     "CONCEPTS/LINEAR REGRESSION.md",
-    "linear-regression.md",
-    "CONCEPT.md",
-    "PAPER.md",
     "Welcome.md",
     "TRADEOFF.md",
     "Untitled",
