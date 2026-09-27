@@ -1,7 +1,7 @@
 
 ---
 
-## What's covered
+## What's been covered
 
 **Phase 1 — Pre-December sprint (Weeks 1–7)**
 
